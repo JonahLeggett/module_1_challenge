@@ -1,3 +1,7 @@
+# Practicing push and pull
+test = ("This is a test")
+print(test)
+
 # coding: utf-8
 import csv
 from pathlib import Path
@@ -86,9 +90,6 @@ if fair_value >= loan_price:
     print("The loan is worth at least the cost to buy it.")
 else: 
     print("The loan is too expensive and is not worth the price to buy it.")
-
-print(fair_value)
-
 
 """Part 3: Perform Financial Calculations.
 
