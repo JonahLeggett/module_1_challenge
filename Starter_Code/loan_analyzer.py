@@ -87,6 +87,8 @@ if fair_value >= loan_price:
 else: 
     print("The loan is too expensive and is not worth the price to buy it.")
 
+print(fair_value)
+
 
 """Part 3: Perform Financial Calculations.
 
