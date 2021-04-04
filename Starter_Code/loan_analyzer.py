@@ -1,7 +1,3 @@
-# Practicing push and pull
-test = ("This is a test")
-print(test)
-
 # coding: utf-8
 import csv
 from pathlib import Path
